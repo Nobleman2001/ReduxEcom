@@ -1,0 +1,177 @@
+[
+  {
+    "category": "Academics",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Book One",
+        "path": "academics-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Book Two",
+        "path": "academics-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Book Three",
+        "path": "academics-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Book Four",
+        "path": "academics-four"
+      }
+    ]
+  },
+  {
+    "category": "Youth",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/y1/300/200",
+        "title": "Book One",
+        "path": "youth-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/y2/300/200",
+        "title": "Book Two",
+        "path": "youth-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/y3/300/200",
+        "title": "Book Three",
+        "path": "youth-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/y4/300/200",
+        "title": "Book Four",
+        "path": "youth-four"
+      }
+    ]
+  },
+  {
+    "category": "Subject",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/s1/300/200",
+        "title": "Book One",
+        "path": "subject-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/s2/300/200",
+        "title": "Book Two",
+        "path": "subject-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/s3/300/200",
+        "title": "Book Three",
+        "path": "subject-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/s4/300/200",
+        "title": "Book Four",
+        "path": "subject-four"
+      }
+    ]
+  },
+  {
+    "category": "Author Wise",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/au1/300/200",
+        "title": "Book One",
+        "path": "author-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/au2/300/200",
+        "title": "Book Two",
+        "path": "author-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/au3/300/200",
+        "title": "Book Three",
+        "path": "author-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/au4/300/200",
+        "title": "Book Four",
+        "path": "author-four"
+      }
+    ]
+  },
+  {
+    "category": "Publisher Wise",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/p1/300/200",
+        "title": "Book One",
+        "path": "publisher-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/p2/300/200",
+        "title": "Book Two",
+        "path": "publisher-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/p3/300/200",
+        "title": "Book Three",
+        "path": "publisher-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/p4/300/200",
+        "title": "Book Four",
+        "path": "publisher-four"
+      }
+    ]
+  },
+  {
+    "category": "Preorder",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/pre1/300/200",
+        "title": "Book One",
+        "path": "preorder-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/pre2/300/200",
+        "title": "Book Two",
+        "path": "preorder-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/pre3/300/200",
+        "title": "Book Three",
+        "path": "preorder-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/pre4/300/200",
+        "title": "Book Four",
+        "path": "preorder-four"
+      }
+    ]
+  },
+  {
+    "category": "General Books",
+    "image": [
+      {
+        "image": "https://picsum.photos/seed/g1/300/200",
+        "title": "Book One",
+        "path": "general-one"
+      },
+      {
+        "image": "https://picsum.photos/seed/g2/300/200",
+        "title": "Book Two",
+        "path": "general-two"
+      },
+      {
+        "image": "https://picsum.photos/seed/g3/300/200",
+        "title": "Book Three",
+        "path": "general-three"
+      },
+      {
+        "image": "https://picsum.photos/seed/g4/300/200",
+        "title": "Book Four",
+        "path": "general-four"
+      }
+    ]
+  }
+]
