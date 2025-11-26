@@ -75,7 +75,7 @@
     ]
   },
   {
-    "category": "Author Wise",
+    "category": "Author ",
     "image": [
       {
         "image": "https://picsum.photos/seed/au1/300/200",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "category": "Publisher Wise",
+    "category": "Publisher ",
     "image": [
       {
         "image": "https://picsum.photos/seed/p1/300/200",

@@ -1,18 +1,22 @@
 import { Route, Routes } from "react-router";
 import "./App.css";
-import Filterbutton from "./components/Layout/Filterbutton";
+import FilterButton from "./components/Layout/FilterButton";
 import Header from "./components/Layout/Header";
+import CategoryRender from "./components/Page/Books/CategoryRender";
+import Subject from "./components/Page/Books/Subject";
 import Home from "./components/Page/Home";
-import Hero from "./components/Landingpage/Hero";
 
 function App() {
   return (
     <div>
       <Header />
-      <Filterbutton />
+      <FilterButton />
       <main>
         <Routes>
           <Route path="/" element={<Home />}></Route>
+          <Route path="/books/subject" element={<Subject />}>
+            <Route path=":category" element={<CategoryRender />} />
+          </Route>
         </Routes>
       </main>
     </div>

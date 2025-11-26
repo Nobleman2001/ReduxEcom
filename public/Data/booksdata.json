@@ -1,0 +1,247 @@
+[
+  {
+    "category": "Academics",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Academics One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Academics Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Academics Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Academics Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Academics Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Academics Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "Subject",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Subject One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Subject Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Subject Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Subject Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Subject Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Subject Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "Youth",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Youth One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Youth Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Youth Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Youth Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Youth Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Youth Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "General Books",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "General Books One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "General Books Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Academics Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "General Books Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "General Books Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "General Books Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "Author",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Author One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Author Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Author Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Author  Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Author Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Author Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "Publisher",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Publisher One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Publisher Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Publisher Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Publisher  Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Publisher Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Publisher Six",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "category": "Preorder",
+    "books": [
+      {
+        "image": "https://picsum.photos/seed/a1/300/200",
+        "title": "Preorder One",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a2/300/200",
+        "title": "Preorder Two",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a3/300/200",
+        "title": "Preorder Three",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a4/300/200",
+        "title": "Preorder Four",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a5/300/200",
+        "title": "Preorder Five",
+        "price": 200
+      },
+      {
+        "image": "https://picsum.photos/seed/a6/300/200",
+        "title": "Preorder Six",
+        "price": 200
+      }
+    ]
+  }
+]
